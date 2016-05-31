@@ -1,0 +1,66 @@
+body{
+	height:100%;
+	width:100%;
+	margin:0px;
+	text-align:center;
+	font-family:Georgia, serif;
+	
+}
+
+h1{
+	font-size:32px;
+	font-family:Palatino,"Palatino Linotype", "Book Antiqua", serif;
+
+}
+
+h2{
+	font-size:56px;
+	color:rgb(255,255,255);
+	background-color:rgba(0,0,0,0.8);
+	
+	
+}
+
+#info{
+	background-image:url("../images/BluePythonBg.jpg");
+	background-size:cover;
+	background-position:center top;
+	margin:30px;
+	padding:250px 0;
+	text-shadow:3px 2px #000000;
+	
+
+}
+
+#info p{
+	font-size:1.75em;
+	font-family:Verdana, sans-serif;
+	color:rgb(255,255,255);
+	background-color:rgba(0,0,0,0.8);
+	
+}
+
+a{
+	font-size:2em;
+	font-family:Verdana, sans-serif;
+	background-color:rgba(0,0,0,0.8);
+	color:rgb(114,211,252);
+	text-decoration:none;
+}
+
+a:hover{
+	color:rgb(255,255,255);
+	text-decoration:none;
+}
+
+#footer p{
+	font-size:0.75em;
+}
+
+#footer a{
+	font-size:1em;
+	text-decoration:none;
+	font-family:serif;
+	background-color:rgb(255,255,255);
+	color:rgb(0,0,0);
+}
