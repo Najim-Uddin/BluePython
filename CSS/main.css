@@ -6,13 +6,13 @@ body{
 	font-family:Georgia, serif;
 	
 }
-
+/* Headers - publication title */
 h1{
 	font-size:32px;
 	font-family:Palatino,"Palatino Linotype", "Book Antiqua", serif;
 
 }
-
+/* book title */
 h2{
 	font-size:56px;
 	color:rgb(255,255,255);
@@ -20,7 +20,7 @@ h2{
 	
 	
 }
-
+/* book cover image */
 #info{
 	background-image:url("../images/BluePythonBg.jpg");
 	background-size:cover;
@@ -31,7 +31,7 @@ h2{
 	
 
 }
-
+/* author */
 #info p{
 	font-size:1.75em;
 	font-family:Verdana, sans-serif;
@@ -39,7 +39,7 @@ h2{
 	background-color:rgba(0,0,0,0.8);
 	
 }
-
+/* read now link */
 a{
 	font-size:2em;
 	font-family:Verdana, sans-serif;
@@ -52,7 +52,7 @@ a:hover{
 	color:rgb(255,255,255);
 	text-decoration:none;
 }
-
+/* footer */
 #footer p{
 	font-size:0.75em;
 }
